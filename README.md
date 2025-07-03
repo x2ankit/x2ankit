@@ -37,7 +37,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/ankit-tripathy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://twitter.com/x2_ankitt" target="_blank"><img src="" alt="Twitter (X)" height="30" width="30" /></a>
+    <a href="https://twitter.com/x2_ankitt" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBMKxJwq8HvuL_rhmBO4nbeADx6MUzt8pp4Fwa8_-v8nfN8m3m9bPQnkhT5K6dpjXD4N0&usqp=CAU" alt="Twitter (X)" height="30" width="30" /></a>
   <a href="https://www.leetcode.com/ankittripathy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://instagram.com/x2_ankit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
