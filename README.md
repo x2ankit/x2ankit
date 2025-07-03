@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/ankit-tripathy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/ankittripathy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://twitter.com/x2_ankitt" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg](https://www.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_57642948.htm#fromView=keyword&page=1&position=3&uuid=89e879ca-dfa1-4a52-828c-d516ab1216f0&query=Twitter)" alt="Twitter (X)" height="30" width="30" /></a>
+  <a href="https://twitter.com/x2_ankitt" target="_blank"><img src="https://img.freepik.com/premium-vector/x-new-social-network-black-app-icon-twitter-rebranded-as-x-twitter-s-logo-was-changed_277909-568.jpg" alt="Twitter (X)" height="30" width="30" /></a>
   <a href="https://instagram.com/x2_ankit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
