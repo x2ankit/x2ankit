@@ -54,11 +54,7 @@
 
 ### 🐍 Contributions Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
