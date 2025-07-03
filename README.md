@@ -10,11 +10,10 @@
 - 📄 My Resume [Get Here]()
 
 ---
-
 <h3 align="left">🧠 Skills</h3>
 
+<!-- Row 1: Programming Languages -->
 <p align="left">
-  <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -24,8 +23,10 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
+</p>
 
-  <!-- Data Handling -->
+<!-- Row 2: Data & ML Libraries -->
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
@@ -35,8 +36,10 @@
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
   </a>
+</p>
 
-  <!-- Deep Learning & Computer Vision -->
+<!-- Row 3: DL, CV & Databases -->
+<p align="left">
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
   </a>
@@ -46,13 +49,8 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
   </a>
-
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
 </p>
 
