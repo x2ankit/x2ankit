@@ -7,7 +7,7 @@
 - 👯 Looking to Collaborate on **Open Source Projects**
 - 👨‍💻 All of my Projects are available [on GitHub](https://github.com/x2ankit?tab=repositories)
 - 📧 Email ID - **x2ankittripathy@gmail.com**
-- 📄 My Resume [View Here](https://github.com/x2ankit/x2ankit/blob/main/assets/resume.pdf)
+- 📄 My Resume [Get Here]()
 
 ---
 
