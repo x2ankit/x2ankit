@@ -3,11 +3,10 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/banner.png" alt="Banner" />
 </p>
 
-- 🌱 Currently Learning **AI-ML with Prompt Engineering**
+- 🌱 Currently Learning **AI-ML with Prompt Engg**
 - 👯 Looking to Collaborate on **Open Source Projects**
-- 👨‍💻 All of my Projects are available [on GitHub](https://github.com/x2ankit?tab=repositories)
-- 📧 Email ID - **x2ankittripathy@gmail.com**
-- 📄 My Resume [Get Here]()
+- 👨‍💻 All of my Projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)
+- 📄 My Resume [**Get Here**](https://github.com/x2ankit/x2ankit/blob/main/Resume/resume.pdf)
 
 ---
 <h3 align="left">🧠 Skills</h3>
