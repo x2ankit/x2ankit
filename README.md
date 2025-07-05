@@ -6,7 +6,7 @@
 - 🌱 Currently Learning **AI-ML with Prompt Engg**
 - 👯 Looking to Collaborate on **Open Source Projects**
 - 👨‍💻 All of my Projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)
-- 📄 My Resume [**Get Here**](https://github.com/x2ankit/x2ankit/raw/main/Documents/resume.pdf)
+- 📄 My Resume [**Download Here**](https://github.com/x2ankit/x2ankit/blob/raw/main/Documents/Resume.pdf)
 
 ---
 <h3 align="left">🧠 Skills</h3>
