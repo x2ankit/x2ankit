@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/banner.png" alt="Banner" />
 </p>
 
-- 🌱 Currently doing **DSA with C++** next to do 
+- 🌱 Currently doing **DSA with C++** next to learn
 **AI-ML with Prompt Engg**
 - 👯 Looking to Collaborate on **Open Source Projects**
 - 👨‍💻 All of my Projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)
