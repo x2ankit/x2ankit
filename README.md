@@ -1,7 +1,4 @@
-<!-- Banner Centered -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/banner.png" alt="Banner" />
-</p>
+
 
 - 🌱 Currently doing **DSA with C++** next to learn
 **AI-ML with Prompt Engg**
