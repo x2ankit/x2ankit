@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/banner.png" alt="Banner" />
 </p>
 
-- 🌱 Currently doing **DSA with C++** next to learn
-**AI-ML with Prompt Engg**
+-🚀 DSA in C++ | 🤖 AI & ML Enthusiast | 🐍 Python | 🗄️ MySQL
+-💡 Passionate & Quick Learner, always exploring new technologies.
 - 👯 Looking to Collaborate on **Open Source Projects**
 - 👨‍💻 All of my Projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)
 - 📄 My Resume [**Download Here**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume.pdf)
