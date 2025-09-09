@@ -3,13 +3,16 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/banner.png" alt="Banner" />
 </p>
 
--🚀 DSA in C++ | 🤖 AI & ML Enthusiast | 🐍 Python | 🗄️ MySQL
--💡 Passionate & Quick Learner, always exploring new technologies.
-- 👯 Looking to Collaborate on **Open Source Projects**
-- 👨‍💻 All of my Projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)
-- 📄 My Resume [**Download Here**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume.pdf)
+---
+
+🚀 DSA in C++ | 🤖 AI & ML Enthusiast | 🐍 Python | 🗄️ MySQL  
+💡 Passionate & Quick Learner, always exploring new technologies  
+👯 Looking to collaborate on **Open Source Projects**  
+👨‍💻 All of my projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)  
+📄 [**Download Resume**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume.pdf)  
 
 ---
+
 <h3 align="left">🧠 Skills</h3>
 
 <!-- Row 1: Programming Languages -->
