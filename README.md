@@ -9,7 +9,7 @@
 💡 Passionate & Quick Learner, always exploring new technologies  
 👯 Looking to collaborate on **Open Source Projects**  
 👨‍💻 All of my projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)  
-📄 [**Download Resume**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume.pdf)  
+📄 [**Download Resume**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume_Ankit_Arayan_Tripathy.pdf)  
 
 ---
 
