@@ -5,11 +5,11 @@
 
 ---
 
-🎯 Primarily focused on Machine Learning and modern AI systems, building practical and scalable solutions
-🤖 Exploring AI Agents, automation workflows, and intelligent system design
-🐍 Leveraging Python for model development, data pipelines, and experimentation
-⚡ Developing a strong foundation in Data Structures & Algorithms (C++) to enhance problem-solving and system efficiency
-🧠 Interested in bridging theory → real-world applications, with a focus on performance and usability
+🎯 Primarily focused on Machine Learning and modern AI systems, building practical and scalable solutions  
+🤖 Exploring AI Agents, automation workflows, and intelligent system design  
+🐍 Leveraging Python for model development, data pipelines, and experimentation  
+⚡ Developing a strong foundation in Data Structures & Algorithms (C++) to enhance problem-solving and system efficiency  
+🧠 Interested in bridging theory → real-world applications, with a focus on performance and usability  
 🌍 Actively contributing to Open Source and collaborating on impactful projects
 
 📄 [**Download Resume**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume_Ankit_Arayan_Tripathy.pdf)  
@@ -60,7 +60,6 @@
   </a>
 </p>
 
-
 <h3 align="left">📡 Stay Connected</h3>
 
 <p align="left">
@@ -87,7 +86,3 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake.svg" />
 </picture>
 
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x2ankit" alt="Trophies" /></a>
-</p>
