@@ -5,10 +5,13 @@
 
 ---
 
-🚀 DSA in C++ | 🤖 AI & ML Enthusiast | 🐍 Python | 🗄️ MySQL  
-💡 Passionate & Quick Learner, always exploring new technologies  
-👯 Looking to collaborate on **Open Source Projects**  
-👨‍💻 All of my projects are available on [**GitHub**](https://github.com/x2ankit?tab=repositories)  
+🎯 Primarily focused on Machine Learning and modern AI systems, building practical and scalable solutions
+🤖 Exploring AI Agents, automation workflows, and intelligent system design
+🐍 Leveraging Python for model development, data pipelines, and experimentation
+⚡ Developing a strong foundation in Data Structures & Algorithms (C++) to enhance problem-solving and system efficiency
+🧠 Interested in bridging theory → real-world applications, with a focus on performance and usability
+🌍 Actively contributing to Open Source and collaborating on impactful projects
+
 📄 [**Download Resume**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume_Ankit_Arayan_Tripathy.pdf)  
 
 ---
