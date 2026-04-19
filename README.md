@@ -5,12 +5,15 @@
 
 ---
 
-🎯 Primarily focused on Machine Learning and modern AI systems, building practical and scalable solutions  
-🤖 Exploring AI Agents, automation workflows, and intelligent system design  
-🐍 Leveraging Python for model development, data pipelines, and experimentation  
-⚡ Developing a strong foundation in Data Structures & Algorithms (C++) to enhance problem-solving and system efficiency  
-🧠 Interested in bridging theory → real-world applications, with a focus on performance and usability  
-🌍 Actively contributing to Open Source and collaborating on impactful projects
+Working on Machine Learning and AI systems.
+
+Building ML models and end-to-end systems using Python, covering data processing, training, evaluation, and deployment.
+
+Working on deep learning, LLM-based applications, AI agents, and automation systems.
+
+Developing scalable and efficient solutions with emphasis on performance and practical usability.
+
+Actively building projects and contributing to open source in the AI/ML space.
 
 📄 [**Download Resume**](https://github.com/x2ankit/x2ankit/raw/main/Documents/Resume_Ankit_Arayan_Tripathy.pdf)  
 
