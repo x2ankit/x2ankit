@@ -31,30 +31,20 @@ My work goes beyond model usage : I build complete systems involving data pipeli
 
 ## 🛠️ Stack
 
-**🧠 AI / LLM Systems (Primary)**
+🧠 AI Systems
+RAG · Agents · Embeddings · Retrieval · Evaluation
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+⚙️ Backend
+FastAPI · PostgreSQL · Redis · SQLAlchemy · Pydantic
 
-**⚙️ Backend Systems**
+🗄️ Data Infrastructure
+Vector Databases · Semantic Search · Hybrid Retrieval
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+🧰 Infrastructure
+Docker · Git · GitHub Actions · Linux
 
-**🧰 Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**🧪 Language**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🐍 Languages
+Python · SQL · C · C++
 
 ---
 
