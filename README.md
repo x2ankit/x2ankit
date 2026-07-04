@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-tripathy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/ankittripathy)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:x2ankittripathy@gmail.com)
-<a href="./CV_Ankit_Arayan_Tripathy_2026.pdf" target="_blank" download><img src="https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-[![Google Drive](https://img.shields.io/badge/Google_Drive-Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NK1ZOxPSRokJoHjy4JE9JjdeXL2dXd35/view?usp=sharing)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/x2ankit/x2ankit/main/CV_Ankit_Arayan_Tripathy_2026.pdf)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-Resume-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1NK1ZOxPSRokJoHjy4JE9JjdeXL2dXd35)
 
 </div>
 
