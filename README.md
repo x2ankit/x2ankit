@@ -2,49 +2,143 @@
 
 # Ankit Arayan Tripathy
 
-**AI Systems Engineer · LLM Applications · RAG Architectures · Agentic Workflows**
+### Backend Engineer • AI Systems • LLM Applications • Retrieval Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-tripathy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/x2ankit)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/ankittripathy)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/x2ankit/x2ankit/main/CV_Ankit_Arayan_Tripathy_2026.pdf)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:x2ankittripathy@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/ankit-tripathy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/x2ankit">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/ankittripathy">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/x2ankit/x2ankit/main/CV_Ankit_Arayan_Tripathy_2026.pdf">
+    <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="mailto:x2ankittripathy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-I design and build production AI systems focused on LLM orchestration, retrieval architectures, and autonomous agent workflows.
+I build backend-driven AI systems with a focus on retrieval, LLM applications, and agent orchestration. My work combines backend engineering with modern AI techniques to build reliable, production-oriented systems.
 
-My work goes beyond model usage : I build complete systems involving data pipelines, reasoning layers, and scalable backend infrastructure.
-
----
-
-## 🚀 Systems I Build
-
-- 🧠 **Quarry** → LLM + RAG backend system for semantic retrieval
-- 🛩️ **Aeroguard** → ML anomaly detection system using NASA telemetry
-- 🚁 **Agriguard** → AI vision system for precision agriculture
-- 🤖 **OnboardAI** → Multi-agent automation system using LLM planning
+My goal is to become an AI Engineer specializing in AI systems and inference engineering by building production-ready projects, understanding the underlying concepts, and contributing to open source.
 
 ---
 
-## 🛠️ Stack
+# Featured Projects
 
-🧠 AI Systems
-RAG · Agents · Embeddings · Retrieval · Evaluation
+### Quarry
 
-⚙️ Backend
-FastAPI · PostgreSQL · Redis · SQLAlchemy · Pydantic
+Backend platform for document ingestion, semantic retrieval, LLM integration, and agent workflows.
 
-🗄️ Data Infrastructure
-Vector Databases · Semantic Search · Hybrid Retrieval
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" />
+</p>
 
-🧰 Infrastructure
-Docker · Git · GitHub Actions · Linux
+**Concepts**
 
-🐍 Languages
-Python · SQL · C · C++
+`RAG` • `Embeddings` • `Semantic Search` • `Vector Retrieval`
+
+---
+
+### Aeroguard
+
+Unsupervised anomaly detection system for aircraft telemetry with explainable diagnostics and visualization.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+**Concepts**
+
+`PCA` • `DBSCAN` • `Feature Engineering`
+
+---
+
+### Agriguard
+
+Computer vision system for crop disease detection and targeted agricultural spraying on edge devices.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+**Concepts**
+
+`CNNs` • `Edge AI` • `Computer Vision`
+
+---
+
+### OnboardAI
+
+LLM-powered workflow automation platform using planner, executor, and validator agents.
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+**Concepts**
+
+`Agent Systems` • `Tool Calling` • `Workflow Automation`
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
+
+Python • C • C++
+
+---
+
+## AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+LLMs • RAG • Embeddings • Vector Databases • LangGraph • MCP • Agent Systems
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" />
+</p>
+
+FastAPI • PostgreSQL • Redis • REST APIs • SQLAlchemy • Pydantic
+
+---
+
+## Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+</p>
+
+Docker • Linux
+
+---
+
+# Areas of Interest
+
+- AI Systems
+- LLM Applications
+- Retrieval Systems
+- Agentic AI
+- Inference Engineering
 
 ---
 
