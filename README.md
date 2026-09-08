@@ -2,14 +2,11 @@
 
 # Ankit Arayan Tripathy
 
-### Backend Engineer • AI Systems • LLM Applications • Retrieval Systems
+### AI Engineer • LLM Systems • RAG • AI Agents
 
 <p>
   <a href="https://linkedin.com/in/ankit-tripathy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/x2ankit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/ankittripathy">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -17,76 +14,17 @@
   <a href="https://raw.githubusercontent.com/x2ankit/x2ankit/main/CV_Ankit_Arayan_Tripathy_2026.pdf">
     <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-  <a href="mailto:x2ankittripathy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 </div>
 
 ---
 
-I build backend-driven AI systems with a focus on retrieval, LLM applications, and agent orchestration. My work combines backend engineering with modern AI techniques to build reliable, production-oriented systems.
+I build backend-driven AI systems with a focus on LLM applications, retrieval systems, and agentic workflows. My work combines Python backend engineering with APIs, databases, data pipelines, retrieval, model integration, evaluation, and deployment.
 
-My goal is to become an AI Engineer specializing in AI systems and inference engineering by building production-ready projects, understanding the underlying concepts, and contributing to open source.
+I’m particularly interested in the systems behind reliable AI applications, including LLM inference, retrieval quality, performance, scalability, and the engineering challenges involved in building them.
 
----
-
-# Featured Projects
-
-### Quarry
-
-Backend platform for document ingestion, semantic retrieval, LLM integration, and agent workflows.
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker" />
-</p>
-
-**Concepts**
-
-`RAG` • `Embeddings` • `Semantic Search` • `Vector Retrieval`
-
----
-
-### Aeroguard
-
-Unsupervised anomaly detection system for aircraft telemetry with explainable diagnostics and visualization.
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Concepts**
-
-`PCA` • `DBSCAN` • `Feature Engineering`
-
----
-
-### Agriguard
-
-Computer vision system for crop disease detection and targeted agricultural spraying on edge devices.
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
-
-**Concepts**
-
-`CNNs` • `Edge AI` • `Computer Vision`
-
----
-
-### OnboardAI
-
-LLM-powered workflow automation platform using planner, executor, and validator agents.
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-</p>
-
-**Concepts**
-
-`Agent Systems` • `Tool Calling` • `Workflow Automation`
+Currently strengthening my systems foundations, exploring applied AI research, building beyond tutorials, and working toward open-source contributions.
 
 ---
 
@@ -95,40 +33,78 @@ LLM-powered workflow automation platform using planner, executor, and validator 
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
-Python • C • C++
+Python • Java • C • C++ • SQL
 
 ---
 
 ## AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" />
 </p>
 
-LLMs • RAG • Embeddings • Vector Databases • LangGraph • MCP • Agent Systems
+PyTorch • Transformers • scikit-learn • NumPy • Pandas
+
+<p>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+## LLM & AI Systems
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embeddings-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-111111?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_Retrieval-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tool_Calling-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+LLM APIs • RAG • Embeddings • Semantic Search • Vector Retrieval • LangGraph • AI Agents • Tool Calling
 
 ---
 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Uvicorn-111111?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-FastAPI • PostgreSQL • Redis • REST APIs • SQLAlchemy • Pydantic
+FastAPI • REST APIs • Pydantic • SQLAlchemy • Uvicorn
+
+---
+
+## Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis" />
+</p>
+
+PostgreSQL • Redis
 
 ---
 
 ## Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
 </p>
 
-Docker • Linux
+Docker • Linux • Git • GitHub
 
 ---
 
@@ -139,11 +115,22 @@ Docker • Linux
 - Retrieval Systems
 - Agentic AI
 - Inference Engineering
+- Applied AI Research
+- Open Source
 
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake.svg"/>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Snake"
+    src="https://raw.githubusercontent.com/x2ankit/x2ankit/output/github-snake.svg"
+  />
 </picture>
