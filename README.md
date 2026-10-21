@@ -2,7 +2,7 @@
 
 # Ankit Arayan Tripathy
 
-### AI Engineer • LLM Systems • RAG • AI Agents
+### Agentic AI Orchestration | LLMs & AI Systems | Applied AI Research | PyTorch | Open Source
 
 <p>
   <a href="https://linkedin.com/in/ankit-tripathy">
@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/ankittripathy">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://raw.githubusercontent.com/x2ankit/x2ankit/main/CV_Ankit_Arayan_Tripathy_2026.pdf">
+  <a href="https://drive.google.com/file/d/1uT1GBThQ6ayvkgYz9RaN4UepqaPdKnN0/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -67,10 +67,7 @@ PyTorch • Transformers • scikit-learn • NumPy • Pandas
   <img src="https://img.shields.io/badge/Vector_Retrieval-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge&logo=robotframework&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tool_Calling-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
-
-LLM APIs • RAG • Embeddings • Semantic Search • Vector Retrieval • LangGraph • AI Agents • Tool Calling
 
 ---
 
@@ -108,17 +105,6 @@ Docker • Linux • Git • GitHub
 
 ---
 
-# Areas of Interest
-
-- AI Systems
-- LLM Applications
-- Retrieval Systems
-- Agentic AI
-- Inference Engineering
-- Applied AI Research
-- Open Source
-
----
 
 <picture>
   <source
