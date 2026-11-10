@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/ankittripathy">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://drive.google.com/file/d/1uT1GBThQ6ayvkgYz9RaN4UepqaPdKnN0/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1_DaKAnul2RHuPDm77AAZRmjheohibcm_/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
