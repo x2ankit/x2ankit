@@ -73,18 +73,6 @@ I enjoy exploring unfamiliar codebases, understanding how different teams build 
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/34d399/x2ankit" width="100%" alt="GitHub contribution activity graph"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=x2ankit&hide_border=true&background=0D1117&ring=A78BFA&fire=34D399&currStreakLabel=60A5FA&sideLabels=A78BFA&dates=9CA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3" width="70%" alt="GitHub contribution streak"/>
-
-</div>
-
 ---
 
 <picture>
