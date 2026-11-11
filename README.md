@@ -36,34 +36,27 @@ Currently deepening my understanding of AI systems and system design while getti
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Machine Learning & Deep Learning</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" height="48" alt="Python, Java, C and C++"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" height="48" alt="PyTorch, scikit-learn, NumPy and Pandas"/></td>
-  </tr>
-  <tr>
-    <th>LLM & Generative AI</th>
-    <th>Backend & Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26" alt="Hugging Face"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="26" alt="OpenAI"/>
-    </td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" height="48" alt="FastAPI, PostgreSQL and Redis"/></td>
-  </tr>
-  <tr>
-    <th colspan="2">Tools & Infrastructure</th>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" height="48" alt="Docker, Linux, Git and GitHub"/></td>
-  </tr>
-</table>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" height="56" alt="Python, Java, C and C++"/>
+
+**Machine Learning & Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch&perline=2" height="56" alt="Machine Learning and Deep Learning"/>
+
+**LLM & Generative AI**
+
+<img src="https://img.shields.io/badge/Gen%20AI-6C5CE7?style=for-the-badge" height="28" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Transformers-2F80ED?style=for-the-badge" height="28" alt="Transformers"/>
+<img src="https://img.shields.io/badge/RAG-526B50?style=for-the-badge" height="28" alt="Retrieval Augmented Generation"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" height="56" alt="FastAPI, PostgreSQL and Redis"/>
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" height="56" alt="Docker, Linux, Git and GitHub"/>
 
 </div>
 
