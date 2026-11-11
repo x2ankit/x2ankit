@@ -80,11 +80,11 @@ I enjoy exploring unfamiliar codebases, understanding how different teams build 
   <tr>
     <td width="50%" align="center" valign="middle">
       <a href="https://github.com/x2ankit">
-        <img src="https://github-stats-extended.vercel.app/api?username=x2ankit&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true" width="100%" alt="GitHub statistics: commits, stars, issues and pull requests"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=x2ankit&amp;show_icons=true&amp;include_all_commits=true&amp;hide=stars&amp;bg_color=135,0D1117,172033,1B1833&amp;title_color=60A5FA&amp;text_color=C9D1D9&amp;icon_color=34D399&amp;border_color=30363D&amp;hide_border=true" width="100%" alt="GitHub statistics: commits, stars, issues and pull requests"/>
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=x2ankit&amp;theme=github-dark-blue&amp;hide_border=true" width="100%" alt="GitHub contribution streak: current and longest streak"/>
+      <img src="https://streak-stats.demolab.com?user=x2ankit&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=60A5FA&amp;fire=A78BFA&amp;currStreakLabel=34D399&amp;currStreakNum=60A5FA&amp;sideLabels=C9D1D9&amp;sideNums=A78BFA&amp;dates=8B949E&amp;stroke=30363D" width="100%" alt="GitHub contribution streak: current and longest streak"/>
     </td>
   </tr>
 </table>
