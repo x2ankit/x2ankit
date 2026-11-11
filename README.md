@@ -118,14 +118,19 @@ Docker • Linux • Git • GitHub
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=x2ankit&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Ankit's GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2ankit&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used programming languages"/>
+  <a href="https://github.com/x2ankit?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_Repositories-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/x2ankit?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/x2ankit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars"/>
+
+  <br/>
 
   <img width="70%" src="https://streak-stats.demolab.com?user=x2ankit&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 
 </div>
 
-> *“I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable.”*
+> *“The interesting part of AI isn't just making models work. It's building the systems that make them useful, reliable, and accessible.”*
 
 ---
 
