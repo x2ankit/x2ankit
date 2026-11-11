@@ -2,7 +2,7 @@
 
 # Ankit Arayan Tripathy
 
-### Agentic AI Orchestration | LLMs & AI Systems | Applied AI Research | PyTorch | Open Source
+### Applied AI Research | LLM Systems | Agentic AI | AI Engineering | PyTorch | Open Source
 
 <p>
   <a href="https://linkedin.com/in/ankit-tripathy">
@@ -20,11 +20,11 @@
 
 ---
 
-I build backend-driven AI systems with a focus on LLM applications, retrieval systems, and agentic workflows. My work combines Python backend engineering with APIs, databases, data pipelines, retrieval, model integration, evaluation, and deployment.
+I’m interested in building reliable AI applications and understanding the systems that power them. My focus is on **LLM applications, retrieval systems, agentic workflows and applied AI research**.
 
-I’m particularly interested in the systems behind reliable AI applications, including LLM inference, retrieval quality, performance, scalability, and the engineering challenges involved in building them.
+I work primarily with Python and explore the engineering behind AI systems, including backend architecture, data pipelines, model integration, evaluation, inference and deployment. I enjoy going beyond tutorials, studying how systems are designed and turning ideas into practical implementations.
 
-Currently strengthening my systems foundations, exploring applied AI research, building beyond tutorials, and working toward open-source contributions.
+Currently deepening my understanding of AI systems and system design while getting more involved in open source development.
 
 ---
 
@@ -71,6 +71,15 @@ PyTorch • Transformers • scikit-learn • NumPy • Pandas
 
 ---
 
+## Open Source
+
+I’m interested in contributing to real-world software, learning from maintainers and understanding how production systems are designed and maintained.
+
+- **FOSSASIA** — Community member and CodeHeat team member.
+- **[VoxBento](https://github.com/fossasia/voxbento)** — Currently exploring its real-time communication, WebRTC, backend architecture and AI interpretation pipeline as a potential contribution area.
+
+---
+
 ## Backend
 
 <p>
@@ -104,7 +113,6 @@ PostgreSQL • Redis
 Docker • Linux • Git • GitHub
 
 ---
-
 
 <picture>
   <source
