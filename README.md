@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/quote-text-only.svg" alt="I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable."/>
 </p>
 
-### Applied AI Research | LLM Systems | Agentic AI | AI Engineering | PyTorch | Open Source
 
 <p>
   <a href="https://linkedin.com/in/ankit-tripathy">
@@ -34,32 +33,38 @@ Currently deepening my understanding of AI systems and system design while getti
 
 # Tech Stack
 
-<div align="center">
-
-<p>
-  <strong>Languages</strong>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" height="48" alt="Python, Java, C and C++"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Machine Learning &amp; Deep Learning</strong>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&perline=2" height="48" alt="ML and Deep Learning"/>
-</p>
-
-<p>
-  <strong>LLM &amp; Generative AI</strong>
-  <img src="https://img.shields.io/badge/Gen%20AI-6C5CE7?style=for-the-badge" height="26" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Transformers-2F80ED?style=for-the-badge" height="26" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/RAG-526B50?style=for-the-badge" height="26" alt="RAG"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Backend &amp; Databases</strong>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" height="48" alt="FastAPI, PostgreSQL and Redis"/>
-</p>
-
-<p>
-  <strong>Tools &amp; Infrastructure</strong>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" height="48" alt="Docker, Linux, Git and GitHub"/>
-</p>
-
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" height="48" alt="Python, Java, C and C++"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <strong>Machine Learning &amp; Deep Learning</strong><br/><br/>
+      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="Deep Learning"/> &nbsp; Deep Learning
+      &nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="ML"/> &nbsp; ML
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <strong>LLM &amp; Generative AI</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Gen%20AI-6C5CE7?style=for-the-badge" height="28" alt="Gen AI"/>
+      <img src="https://img.shields.io/badge/Transformers-2F80ED?style=for-the-badge" height="28" alt="Transformers"/>
+      <img src="https://img.shields.io/badge/RAG-526B50?style=for-the-badge" height="28" alt="RAG"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <strong>Backend &amp; Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" height="48" alt="FastAPI, PostgreSQL and Redis"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <strong>Tools &amp; Infrastructure</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" height="48" alt="Docker, Linux, Git and GitHub"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
