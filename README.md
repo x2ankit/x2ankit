@@ -35,27 +35,25 @@ Currently deepening my understanding of AI systems and system design while getti
 
 <div align="center">
 
-<p>
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" height="48" alt="Python, Java, C and C++"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Machine Learning &amp; Deep Learning</strong><br/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="Scikit learn"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>LLM &amp; Generative AI</strong><br/>
-  <img src="https://img.shields.io/badge/Gen%20AI-6C5CE7?style=for-the-badge" height="26" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Transformers-2F80ED?style=for-the-badge" height="26" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/RAG-526B50?style=for-the-badge" height="26" alt="RAG"/>
+<p align="center">
+  <strong>Languages</strong>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&amp;perline=4" height="42" alt="Python, Java, C and C++"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Machine Learning &amp; Deep Learning</strong>&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn,pytorch&amp;perline=2" height="42" alt="Scikit learn and PyTorch"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>LLM &amp; Generative AI</strong>&nbsp;
+  <img src="https://img.shields.io/badge/Gen%20AI-6C5CE7?style=for-the-badge" height="25" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Transformers-2F80ED?style=for-the-badge" height="25" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/RAG-526B50?style=for-the-badge" height="25" alt="RAG"/>
 </p>
 
-<p>
-  <strong>Backend &amp; Databases</strong><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" height="48" alt="FastAPI, PostgreSQL and Redis"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Tools &amp; Infrastructure</strong><br/>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" height="48" alt="Docker, Linux, Git and GitHub"/>
+<p align="center">
+  <strong>Backend &amp; Databases</strong>&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&amp;perline=3" height="42" alt="FastAPI, PostgreSQL and Redis"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Tools &amp; Infrastructure</strong>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github&amp;perline=4" height="42" alt="Docker, Linux, Git and GitHub"/>
 </p>
 
 </div>
