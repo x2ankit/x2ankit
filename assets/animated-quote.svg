@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering philosophy</title>
+  <desc id="desc">I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#17132c"/>
+      <animate attributeName="x1" values="0;1;0" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="1;0;1" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#34d399"/>
+      <animate attributeName="x1" values="0;1;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="pixels" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect x="2" y="2" width="3" height="3" rx="0.5" fill="#93c5fd" opacity=".22">
+        <animate attributeName="opacity" values=".08;.42;.08" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="14" y="14" width="2" height="2" fill="#c4b5fd" opacity=".16">
+        <animate attributeName="opacity" values=".04;.3;.04" dur="5s" repeatCount="indefinite"/>
+      </rect>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="998" height="188" rx="18" fill="url(#bg)" stroke="#64748b" stroke-opacity=".48" stroke-width="1.5"/>
+  <rect x="2" y="2" width="996" height="186" rx="17" fill="url(#pixels)"/>
+  <rect x="24" y="28" width="4" height="134" rx="2" fill="url(#accent)"/>
+  <rect x="24" y="28" width="4" height="134" rx="2" fill="none" stroke="url(#accent)" stroke-width="1">
+    <animate attributeName="opacity" values=".45;1;.45" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">
+    <text x="54" y="76">“I’m less interested in building another demo</text>
+    <text x="54" y="116">and more interested in understanding what it takes</text>
+    <text x="54" y="156">to make intelligent systems <tspan fill="url(#accent)">reliable.</tspan>”</text>
+  </g>
+  <path d="M54 174 H946" stroke="url(#accent)" stroke-opacity=".7" stroke-width="1.5">
+    <animate attributeName="stroke-dasharray" values="0 900;900 0;0 900" dur="10s" repeatCount="indefinite"/>
+  </path>
+</svg>
