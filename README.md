@@ -82,19 +82,22 @@ I’m interested in contributing to real-world software, learning from maintaine
 
 <div align="center">
 
-  <a href="https://github.com/x2ankit?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_Repositories-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/x2ankit?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/x2ankit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars" alt="GitHub stars"/>
+<a href="https://github.com/x2ankit">
+  <img src="https://img.shields.io/github/followers/x2ankit?style=for-the-badge&logo=github&label=Followers&color=8b5cf6&labelColor=20232a" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/x2ankit?tab=stars">
+  <img src="https://img.shields.io/github/stars/x2ankit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=34d399&labelColor=20232a" alt="GitHub stars"/>
+</a>
 
-  <br/>
+<br/><br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=x2ankit&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=x2ankit&bg_color=0d1117&color=a78bfa&line=34d399&point=60a5fa&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=x2ankit&hide_border=true&background=0D1117&ring=A78BFA&fire=34D399&currStreakLabel=60A5FA&sideLabels=A78BFA&dates=9CA3AF&currStreakNum=E6EDF3&sideNums=E6EDF3" width="70%" alt="GitHub contribution streak"/>
 
 </div>
-
-
 
 ---
 
