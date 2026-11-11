@@ -3,7 +3,7 @@
 # Ankit Arayan Tripathy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/animated-quote.svg" alt="I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable." width="100%"/>
+  <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/quote-text-only.svg" alt="I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable."/>
 </p>
 
 ### Applied AI Research | LLM Systems | Agentic AI | AI Engineering | PyTorch | Open Source
