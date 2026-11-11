@@ -83,7 +83,7 @@ I enjoy exploring unfamiliar codebases, understanding how different teams build 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=x2ankit&bg_color=0d1117&color=a78bfa&line=34d399&point=60a5fa&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://ghchart.rshah.org/34d399/x2ankit" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/>
 
