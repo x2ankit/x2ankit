@@ -34,46 +34,51 @@ Currently deepening my understanding of AI systems and system design while getti
 
 # Tech Stack
 
-## Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
-
-Python • Java • C • C++ • SQL
-
----
-
-## AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" />
-</p>
-
-PyTorch • Transformers • scikit-learn • NumPy • Pandas
-
-<p>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
-
-## LLM & AI Systems
-
-<p>
-  <img src="https://img.shields.io/badge/LLM_APIs-111111?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embeddings-111111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Semantic_Search-111111?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_Retrieval-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge&logo=robotframework&logoColor=white"/>
-</p>
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" alt="Python, Java, C and C++"/>
+      <br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>AI & Machine Learning</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" alt="PyTorch, scikit-learn, NumPy and Pandas"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>LLM & AI Systems</strong><br/><br/>
+      <img src="https://img.shields.io/badge/LLM_APIs-111111?style=flat-square&logo=openai&logoColor=white" alt="LLM APIs"/>
+      <img src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=databricks&logoColor=white" alt="RAG"/>
+      <img src="https://img.shields.io/badge/Embeddings-111111?style=flat-square&logo=googlecloud&logoColor=white" alt="Embeddings"/>
+      <img src="https://img.shields.io/badge/Semantic_Search-111111?style=flat-square&logo=elastic&logoColor=white" alt="Semantic Search"/>
+      <img src="https://img.shields.io/badge/Vector_Retrieval-111111?style=flat-square&logo=postgresql&logoColor=white" alt="Vector Retrieval"/>
+      <img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square&logo=robotframework&logoColor=white" alt="AI Agents"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Backend & APIs</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi&perline=1" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Databases & Caching</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,redis&perline=2" alt="PostgreSQL and Redis"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Tools & Infrastructure</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt="Docker, Linux, Git and GitHub"/>
+    </td>
+  </tr>
+</table>
 
 ## Open Source
 
