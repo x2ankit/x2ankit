@@ -36,17 +36,34 @@ Currently deepening my understanding of AI systems and system design while getti
 
 <div align="center">
 
-| Languages | Machine Learning & Deep Learning |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" alt=""/> | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" alt=""/> |
-
-| LLM & Generative AI | Backend & Databases |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=huggingface,langchain,openai&perline=3" alt=""/> | <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" alt=""/> |
-
-| Tools & Infrastructure |
-|:---:|
-| <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt=""/> |
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Machine Learning & Deep Learning</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" alt="Python, Java, C and C++"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" alt="PyTorch, scikit-learn, NumPy and Pandas"/></td>
+  </tr>
+  <tr>
+    <th>LLM & Generative AI</th>
+    <th>Backend & Databases</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" alt="FastAPI, PostgreSQL and Redis"/></td>
+  </tr>
+  <tr>
+    <th colspan="2">Tools & Infrastructure</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt="Docker, Linux, Git and GitHub"/></td>
+  </tr>
+</table>
 
 </div>
 
