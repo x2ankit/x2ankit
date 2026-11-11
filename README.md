@@ -2,6 +2,10 @@
 
 # Ankit Arayan Tripathy
 
+<blockquote>
+  <h3><em>“I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable.”</em></h3>
+</blockquote>
+
 ### Applied AI Research | LLM Systems | Agentic AI | AI Engineering | PyTorch | Open Source
 
 <p>
@@ -130,7 +134,7 @@ Docker • Linux • Git • GitHub
 
 </div>
 
-> *“The interesting part of AI isn't just making models work. It's building the systems that make them useful, reliable, and accessible.”*
+
 
 ---
 
