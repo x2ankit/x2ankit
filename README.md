@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/quote-text-only.svg" alt="I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable."/>
 </p>
 
+### Applied AI Research | LLM Systems | Agentic AI | AI Engineering | PyTorch | Open Source
 
 <p>
   <a href="https://linkedin.com/in/ankit-tripathy">
@@ -41,8 +42,8 @@ Currently deepening my understanding of AI systems and system design while getti
     <th>Machine Learning & Deep Learning</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" alt="Python, Java, C and C++"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" alt="PyTorch, scikit-learn, NumPy and Pandas"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" height="48" alt="Python, Java, C and C++"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" height="48" alt="PyTorch, scikit-learn, NumPy and Pandas"/></td>
   </tr>
   <tr>
     <th>LLM & Generative AI</th>
@@ -50,17 +51,17 @@ Currently deepening my understanding of AI systems and system design while getti
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="26" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="26" alt="OpenAI"/>
     </td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" alt="FastAPI, PostgreSQL and Redis"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" height="48" alt="FastAPI, PostgreSQL and Redis"/></td>
   </tr>
   <tr>
     <th colspan="2">Tools & Infrastructure</th>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt="Docker, Linux, Git and GitHub"/></td>
+    <td colspan="2" align="center"><img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" height="48" alt="Docker, Linux, Git and GitHub"/></td>
   </tr>
 </table>
 
@@ -70,25 +71,17 @@ Currently deepening my understanding of AI systems and system design while getti
 
 ## Open Source
 
-I’m interested in contributing to real-world software, learning from maintainers and understanding how production systems are designed and maintained.
+I enjoy exploring unfamiliar codebases, understanding how different teams build and maintain software, and contributing where I can make a useful impact. I’m particularly interested in collaborating with developers, learning established engineering practices and improving through thoughtful code reviews.
 
 - **FOSSASIA** — Community member and CodeHeat team member.
-- **[VoxBento](https://github.com/fossasia/voxbento)** — Exploring its real-time communication, WebRTC and AI interpretation architecture as a potential contribution area.
+- **VoxBento** — Exploring its codebase and contribution opportunities.
+- **Other open source communities** — Interested in learning from maintainers, collaborating across teams and contributing to projects beyond my usual areas of work.
 
 ---
 
 ## GitHub Activity
 
 <div align="center">
-
-<a href="https://github.com/x2ankit">
-  <img src="https://img.shields.io/github/followers/x2ankit?style=for-the-badge&logo=github&label=Followers&color=8b5cf6&labelColor=20232a" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/x2ankit?tab=stars">
-  <img src="https://img.shields.io/github/stars/x2ankit?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=34d399&labelColor=20232a" alt="GitHub stars"/>
-</a>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=x2ankit&bg_color=0d1117&color=a78bfa&line=34d399&point=60a5fa&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
@@ -99,7 +92,6 @@ I’m interested in contributing to real-world software, learning from maintaine
 </div>
 
 ---
-
 
 <picture>
   <source
