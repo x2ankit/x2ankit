@@ -36,17 +36,17 @@ Currently deepening my understanding of AI systems and system design while getti
 
 <div align="center">
 
-| Languages | AI & Machine Learning |
+| Languages | Machine Learning & Deep Learning |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" alt="Python, Java, C and C++"/> <br/> SQL | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" alt="PyTorch, scikit-learn, NumPy and Pandas"/> <br/> Transformers |
+| <img src="https://skillicons.dev/icons?i=python,java,c,cpp&perline=4" alt=""/> | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas&perline=4" alt=""/> |
 
-| LLM & Agentic Systems | Backend & Databases |
+| LLM & Generative AI | Backend & Databases |
 |:---:|:---:|
-| LLM APIs · RAG · Embeddings · LangGraph · AI Agents | <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" alt="FastAPI, PostgreSQL and Redis"/> <br/> REST APIs · SQLAlchemy · Pydantic |
+| <img src="https://skillicons.dev/icons?i=huggingface,langchain,openai&perline=3" alt=""/> | <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&perline=3" alt=""/> |
 
 | Tools & Infrastructure |
 |:---:|
-| <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt="Docker, Linux, Git and GitHub"/> |
+| <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt=""/> |
 
 </div>
 
