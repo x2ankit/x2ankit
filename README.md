@@ -114,6 +114,27 @@ Docker • Linux • Git • GitHub
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=x2ankit&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Ankit's GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2ankit&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used programming languages"/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=x2ankit&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+
+</div>
+
+> *“I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable.”*
+
+---
+
+<div align="center">
+
+  <i>Learning by building. Growing through open source.</i>
+
+</div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
