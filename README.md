@@ -75,9 +75,9 @@ Currently deepening my understanding of AI systems and system design while getti
 
 I enjoy exploring unfamiliar codebases, understanding how different teams build and maintain software, and contributing where I can make a useful impact. I’m particularly interested in collaborating with developers, learning established engineering practices and improving through thoughtful code reviews.
 
-- **FOSSASIA** — Community member and CodeHeat team member.
-- **VoxBento** — Exploring its codebase and contribution opportunities.
-- **Other open source communities** — Interested in learning from maintainers, collaborating across teams and contributing to projects beyond my usual areas of work.
+- **FOSSASIA**  Community member and CodeHeat team member.
+- **VoxBento**  Exploring its codebase and contribution opportunities.
+- **Other open source communities**  Interested in learning from maintainers, collaborating across teams and contributing to projects beyond my usual areas of work.
 
 ---
 
