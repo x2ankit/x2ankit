@@ -87,17 +87,13 @@ I enjoy exploring unfamiliar codebases, understanding how different teams build 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=x2ankit&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark&hide_border=true" height="180" alt="GitHub statistics including commits, stars, issues and pull requests"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=x2ankit&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" height="180" alt="GitHub statistics card"/>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=x2ankit&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub contribution streak statistics"/>
+      <img src="https://streak-stats.demolab.com?user=x2ankit&amp;theme=github-dark-blue&amp;hide_border=true" height="180" alt="GitHub contribution streak statistics"/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img src="https://ghchart.rshah.org/34d399/x2ankit" width="100%" alt="GitHub yearly contribution calendar"/>
 
 </div>
 
