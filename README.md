@@ -6,7 +6,6 @@
   <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/quote-text-only.svg" alt="I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable."/>
 </p>
 
-### Applied AI Research | LLM Systems | Agentic AI | AI Engineering | PyTorch | Open Source
 
 <p>
   <a href="https://linkedin.com/in/ankit-tripathy">
