@@ -46,6 +46,9 @@ Currently deepening my understanding of AI systems and system design while getti
       <img src="https://skillicons.dev/icons?i=sklearn,pytorch&amp;perline=2" height="46" alt="Scikit learn and PyTorch"/>
     </td>
   </tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="33.33%" align="center" valign="middle">
       <strong>LLM &amp; Generative AI</strong><br/><br/>
