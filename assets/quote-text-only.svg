@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="68" viewBox="0 0 1000 68" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering philosophy</title>
+  <desc id="desc">I’m less interested in building another demo and more interested in understanding what it takes to make intelligent systems reliable.</desc>
+  <defs>
+    <linearGradient id="moving" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="30%" stop-color="#a78bfa"/>
+      <stop offset="60%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+      <animate attributeName="x1" values="-100%;100%;-100%" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%;0%" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" text-anchor="middle">
+    <text x="500" y="27" fill="url(#moving)">“I’m less interested in building another demo and more interested in</text>
+    <text x="500" y="57" fill="url(#moving)">understanding what it takes to make intelligent systems reliable.”</text>
+  </g>
+</svg>
