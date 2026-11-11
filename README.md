@@ -101,11 +101,6 @@ I’m interested in contributing to real-world software, learning from maintaine
 
 ---
 
-<div align="center">
-
-  <i>Learning by building. Growing through open source.</i>
-
-</div>
 
 <picture>
   <source
