@@ -23,11 +23,11 @@
 
 ---
 
-I’m interested in building reliable AI applications and understanding the systems that power them. My focus is on **LLM applications, retrieval systems, agentic workflows and applied AI research**.
+I build and investigate AI systems, with a particular interest in what happens beyond the model: how it is evaluated, served, optimized and made reliable.
 
-I work primarily with Python and explore the engineering behind AI systems, including backend architecture, data pipelines, model integration, evaluation, inference and deployment. I enjoy going beyond tutorials, studying how systems are designed and turning ideas into practical implementations.
+My interests span **Applied AI, deep learning, LLM systems and inference engineering**. Lately, I’ve been spending time with PyTorch, profiling model execution and understanding the trade-offs behind latency, memory and performance.
 
-Currently deepening my understanding of AI systems and system design while getting more involved in open source development.
+I learn by building, reading source code and experimenting. I’m also interested in open source work where I can understand real engineering decisions and contribute to the tools I use.
 
 ---
 
