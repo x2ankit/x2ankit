@@ -23,11 +23,11 @@
 
 ---
 
-I build and investigate AI systems, with a particular interest in what happens beyond the model: how it is evaluated, served, optimized and made reliable.
+I work at the intersection of **AI engineering and research**, exploring how ideas move from model experiments into systems that are useful, measurable and dependable.
 
-My interests span **Applied AI, deep learning, LLM systems and inference engineering**. Lately, I’ve been spending time with PyTorch, profiling model execution and understanding the trade-offs behind latency, memory and performance.
+My interests include **Applied AI, deep learning, LLM systems and inference engineering**. I enjoy investigating model behaviour, studying the trade-offs behind performance and reliability, and using experiments to understand what actually works.
 
-I learn by building, reading source code and experimenting. I’m also interested in open source work where I can understand real engineering decisions and contribute to the tools I use.
+I learn by building, reading papers and source code, and sharing what I discover. I’m drawn to open source, research driven problem solving, and ambitious questions that lead to better ways of building AI.
 
 ---
 
