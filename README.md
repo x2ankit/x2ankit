@@ -57,12 +57,14 @@ I learn by building, reading source code and experimenting. I’m also intereste
       <img src="https://img.shields.io/badge/RAG-526B50?style=for-the-badge" height="26" alt="RAG"/>
     </td>
     <td width="33.33%" align="center" valign="middle">
-      <strong>Backend &amp; Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis&amp;perline=3" height="46" alt="FastAPI, PostgreSQL and Redis"/>
+      <strong>Backend &amp; Data</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi,mysql,postgres,redis&amp;perline=4" height="46" alt="FastAPI, MySQL, PostgreSQL and Redis"/><br/><br/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&amp;logo=pydantic&amp;logoColor=white" height="26" alt="Pydantic"/>
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&amp;logo=qdrant&amp;logoColor=white" height="26" alt="Qdrant"/>
     </td>
     <td width="33.33%" align="center" valign="middle">
-      <strong>Tools &amp; Infrastructure</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,github&amp;perline=4" height="46" alt="Docker, Linux, Git and GitHub"/>
+      <strong>Systems &amp; Tooling</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git&amp;perline=3" height="46" alt="Docker, Linux and Git"/>
     </td>
   </tr>
 </table>
