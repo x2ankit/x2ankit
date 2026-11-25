@@ -102,6 +102,13 @@ I enjoy exploring unfamiliar codebases, understanding how different teams build 
   </tr>
 </table>
 
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/x2ankit/x2ankit/main/assets/contribution-graph.svg" width="100%" alt="Ankit's GitHub contributions over the last 30 days"/>
+</p>
+
 </div>
 
 ---
